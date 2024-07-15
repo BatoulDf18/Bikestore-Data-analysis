@@ -14,7 +14,7 @@ This project analyzes BikeStore data using SQL Server, Excel, and Tableau to der
 
 ## Project Overview
 
-This project analyzes BikeStore data to [briefly state your main objectives, e.g., "understand sales trends, customer behavior, and inventory management"]. By leveraging SQL Server for data extraction, Excel for pivot table analysis, and Tableau for advanced visualizations, we aim to provide comprehensive insights into the BikeStore's operations.
+This project analyzes BikeStore revenue data across multiple dimensions including stores, customers, states, cities, and order dates. Using SQL Server for data extraction, Excel for pivot table analysis, and Tableau for visualization, we aim to provide clear insights into sales performance. Our goal is to identify top performers, uncover trends, and highlight growth opportunities. This analysis will help BikeStore management make informed decisions to optimize revenue, improve inventory management, By transforming raw data into actionable insights, we're enabling data-driven decision-making to boost the company's overall financial performance.
 
 ## Tools Used
 
@@ -24,17 +24,17 @@ This project analyzes BikeStore data to [briefly state your main objectives, e.g
 
 ## Data Source
 
-The data used in this project comes from [describe your data source, e.g., "a BikeStore database containing sales, inventory, and customer information from 2018 to 2022"].
+The data used in this project comes from [ "a BikeStore database production and sales  information from 2016 to 2018"].
 
 ## Analysis Process
 
 1. **SQL Server Query**: 
    - Wrote and executed a complex query to extract relevant data from the BikeStore database.
-   - [Briefly describe what your query does, e.g., "The query joins multiple tables to compile sales data, customer information, and product details."]
+   
 
 2. **Excel Analysis**:
    - Imported the SQL query results into Excel.
-   - Created pivot tables to analyze [mention what you analyzed, e.g., "sales by region, product category performance, seasonal trends"].
+   - Created pivot tables to analyze revenu .
    - Developed a dashboard in Excel to visualize key metrics.
 
 3. **Tableau Visualization**:
@@ -47,15 +47,14 @@ The data used in this project comes from [describe your data source, e.g., "a Bi
 
 ## Files in this Repository
 
-- `BikeStore_Analysis_Query.sql`: The SQL query used to extract data from SQL Server.
-- `BikeStore_Analysis.xlsx`: Excel file containing pivot tables and dashboard.
-- `BikeStore_Visualizations.twb`: Tableau workbook with visualizations and dashboards.
-- [List any other relevant files in your repository]
+- `SQl Queries /BikeStore_Analysis_Query.sql`: The SQL query used to extract data from SQL Server.
+- `Visualisation/BikeStore_Analysis.xlsx`: Excel file containing pivot tables and dashboard.
+- `Visualisation/BikeStore_Visualizations.twb`: Tableau workbook with visualizations and dashboards.
+
 
 ## How to Use This Project
+1.create a database on Sql server calles Bikestore then install the zip file on databases and excute eatch sql file on it.
+2. Execute the SQL query in `BikeStore_Analysis_Query.sql` on your SQL Server instance containing the BikeStore database.
+3. Open `BikeStore_Analysis.xlsx` to view the Excel pivot tables and dashboard. Refresh the data connection if needed.
+4. Open `BikeStore_Visualizations.twb` in Tableau to interact with the visualizations. You may need to reconnect to the Excel data source.
 
-1. Execute the SQL query in `BikeStore_Analysis_Query.sql` on your SQL Server instance containing the BikeStore database.
-2. Open `BikeStore_Analysis.xlsx` to view the Excel pivot tables and dashboard. Refresh the data connection if needed.
-3. Open `BikeStore_Visualizations.twb` in Tableau to interact with the visualizations. You may need to reconnect to the Excel data source.
-
-[Add any additional instructions or notes for users of your project]
