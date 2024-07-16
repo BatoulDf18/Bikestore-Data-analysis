@@ -43,7 +43,10 @@ The data used in this project comes from [ "a BikeStore database production and 
 
 ## Results and Visualizations
 Here are some key findings and visualizations from my analysis:
-(images/sreen1.png)
+![screen1](images/sreen1.png)
+![screen2](images/sreen2.png)
+![screen3](images/sreen3.png)
+
 
 ## Files in this Repository
 
