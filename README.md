@@ -43,9 +43,10 @@ The data used in this project comes from [ "a BikeStore database production and 
 
 ## Results and Visualizations
 Here are some key findings and visualizations from my analysis:
-![screen1](https://github.com/BatoulDf18/Bikestore-Data-analysis/edit/main/images/sreen1.png)
-![screen2]([images/sreen2.png](https://github.com/BatoulDf18/Bikestore-Data-analysis/edit/main/images/sreen2.png))
-![screen3]([images/sreen3.png](https://github.com/BatoulDf18/Bikestore-Data-analysis/edit/main/images/sreen3.png))
+![screen1](https://github.com/user-attachments/assets/58a58449-e719-46c9-b3d8-9f75a86f43f9)
+![screen2](https://github.com/user-attachments/assets/4139e843-431a-42d3-b993-0efbc12144c1)
+![screen3](https://github.com/user-attachments/assets/026a22cb-feb9-4eb4-b449-7d295ccbc927)
+
 
 
 ## Files in this Repository
