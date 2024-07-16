@@ -39,17 +39,17 @@ The data used in this project comes from [ "a BikeStore database production and 
 
 3. **Tableau Visualization**:
    - Connected Tableau to the Excel file containing the analyzed data.
-   - Created interactive visualizations and dashboards to represent [mention what you visualized, e.g., "sales trends, customer segmentation, and inventory turnover"].
+   - Created interactive visualizations and dashboards to represent key metrics.
 
 ## Results and Visualizations
 
-[Briefly describe your key findings and insights. You can add screenshots of your Excel dashboard and Tableau visualizations here if you're hosting them on GitHub. Otherwise, provide instructions on where to find the visuals in your repository.]
+
 
 ## Files in this Repository
 
-- `SQl Queries /BikeStore_Analysis_Query.sql`: The SQL query used to extract data from SQL Server.
-- `Visualisation/BikeStore_Analysis.xlsx`: Excel file containing pivot tables and dashboard.
-- `Visualisation/BikeStore_Visualizations.twb`: Tableau workbook with visualizations and dashboards.
+- `SQl Queries /Sql Queries/Query.sql`: The SQL query used to extract data from SQL Server.
+- `Visualisation/BikeStore.xlsx`: Excel file containing pivot tables and dashboard.
+- `Visualisation/BikeStore.twb`: Tableau workbook with visualizations and dashboards.
 
 
 ## How to Use This Project
