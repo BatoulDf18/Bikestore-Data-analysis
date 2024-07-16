@@ -42,8 +42,8 @@ The data used in this project comes from [ "a BikeStore database production and 
    - Created interactive visualizations and dashboards to represent key metrics.
 
 ## Results and Visualizations
-
-
+Here are some key findings and visualizations from my analysis:
+(images/sreen1.png)
 
 ## Files in this Repository
 
